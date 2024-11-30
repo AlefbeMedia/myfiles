@@ -1,0 +1,107 @@
+         .asli {
+         --tw-bg-opacity: 1;
+         background-color: rgb(230 232 246 / var(--tw-bg-opacity));
+         }
+         .userdetailbox {
+         background-color: #fff;
+         box-shadow: #324DDD26 0 2px 20px 0;
+         }
+         .text-newcolor {
+         color: #464c72;
+         }
+         .containercolor {  /* اسم سیستم عامل ها */
+         background: #464c72;
+         color: #fff;
+         }
+         .inside-containercolor { /* رنگ داخل کانتینر - مشابه بکگراند */
+         --tw-bg-opacity: 1;
+         background-color: rgb(230 232 246 / var(--tw-bg-opacity));
+         padding: 20px 15px 20px 15px;
+         }
+         .inside2-containercolor { /* اسم اپ ها */
+         color:#464c72 !important;
+         background-color: #f3f4ff;
+         box-shadow: #324DDD26 0 2px 20px 0;
+         }
+         .svgicon {
+         fill: #464c72
+         }
+         .dl-btn-color {
+         background-color: #4d7de7;
+         }
+         .add-btn-color {
+         background-color: #ff7a00;
+         }
+         .dl-h1-text {
+         display: flex;
+         align-items: center;
+         width: auto !important;
+         padding: 1rem 0.5rem 1rem 0.5rem;
+         @media (min-width: 768px){
+         padding: 1rem 1rem 1rem 0.5rem;
+         }}
+         .spacer {
+         height:10px;
+         }
+         .appstartext {
+         @media (max-width: 400px) {
+         font-size: 0;
+         }}
+         .apphintsg {
+         background: #6cb9ad33;
+         color: #6cb9ad;
+         padding: 5px;
+         font-size: 10px;
+         font-weight: 500;
+         border-radius: 10px;
+         margin-left: auto;
+         text-align: center;
+         @media (min-width: 500px){
+         font-size: 15px;
+         font-weight: 500;
+         }
+         }
+         .apphintsr {
+         background: #ff696d33;
+         color: #ff696d;
+         padding: 5px;
+         font-size: 10px;
+         font-weight: 500;
+         border-radius: 10px;
+         margin-left: auto;
+         text-align: center;
+         @media (min-width: 500px){
+         font-size: 15px;
+         font-weight: 500;
+         }}
+         .radial-progress:after {
+         z-index: 1;
+         }
+         .useractive {
+         background: #6cb9ad33;
+         color: #6cb9ad;
+         }
+         .userlimited {
+         background: #ff696d33;
+         color: #ff696d;
+         }
+         .userexpired {
+         background: #ffae4c33;
+         color: #e78660;
+         }
+         .userdisabled {
+         background: #acacac33;
+         color: #858585;
+         }
+         .appnamebold {
+         font-weight: 400;
+         }
+         .data-usage {
+         font-size: 14px;
+         @media (min-width: 400px){
+         font-size: 16px;
+         }
+         @media (max-width: 640px){
+         margin-top: -10px !important;
+         }
+         }
